@@ -1,0 +1,3 @@
+  const token = SecureStore.getItem("token");
+      SecureStore.deleteItemAsync("token");
+  const token = SecureStore.getItem("token");
